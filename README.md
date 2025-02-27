@@ -1,6 +1,7 @@
 # Portfolio
 
-![imagen](https://cdn1.gnarususercontent.com.br/6/450324/9facae6f-79bf-48f3-b3a9-b4f9284802d7.png)  
+![image](https://github.com/user-attachments/assets/9f24a129-dd98-4de8-8375-f11c04f6750e)
+ 
 ## Herramientas utilizadas:
 
 * HTML
